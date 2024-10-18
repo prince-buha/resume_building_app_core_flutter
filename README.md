@@ -25,28 +25,40 @@ Whether you're building a resume for your first job or fine-tuning it for a new 
 - ### SpleshScreen
  <img src="" width="250">
 
-- ### SinginPage
+- ### Homepage
  <img src="" width="250">
 
- - ### AllPostPage
+ - ### Bulid Opation page
 
  <img src="" width="250">
 
- - ### DetailPage
+ - ### carrier objective page
 <img src="" width="250">
 
- - ### DownloadPage
+ - ### contact info page
 <img src="" width="250">
 
- - ### SharePage
+ - ### education page
+<img src="" width="250">
+
+ - ### Personal detail page
+<img src="" width="250">
+
+ - ### Projects page
+<img src="" width="250">
+
+ - ### References page
+<img src="" width="250">
+
+ - ### Technical Skills page
 <img src="" width="250">
 
 
 
-## Video 
+📽️ ## Video 
 https://github.com/user-attachments/assets/822e2703-e50b-41a0-80c8-ee07b51c7969
 
-## Follow
+ ## Follow
  LinkedIn  = "https://www.linkedin.com/in/prince-buha-9674a22b2/"
 
 
