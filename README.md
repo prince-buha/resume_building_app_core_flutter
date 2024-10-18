@@ -20,6 +20,29 @@ Whether you're building a resume for your first job or fine-tuning it for a new 
 
 📊 *Responsive Design* – Build resumes on any device, be it mobile, tablet, or desktop.
 
+## 📸 Screen Shorts 
+
+- ### SpleshScreen
+ <img src="" width="250">
+
+- ### SinginPage
+ <img src="" width="250">
+
+ - ### AllPostPage
+
+ <img src="" width="250">
+
+ - ### DetailPage
+<img src="" width="250">
+
+ - ### DownloadPage
+<img src="" width="250">
+
+ - ### SharePage
+<img src="" width="250">
+
+
+
 ## Video 
 https://github.com/user-attachments/assets/822e2703-e50b-41a0-80c8-ee07b51c7969
 
