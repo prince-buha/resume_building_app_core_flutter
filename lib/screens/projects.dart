@@ -44,7 +44,7 @@ class _projectsState extends State<projects> {
           ),
         ),
         title: Text(
-          "Personal Details",
+          "Projects Page",
           style: TextStyle(
             color: Globals.textColor,
             fontSize: 20,
