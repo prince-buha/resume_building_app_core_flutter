@@ -58,7 +58,7 @@ Whether you're building a resume for your first job or fine-tuning it for a new 
  ## 📽️ Video 
 https://github.com/user-attachments/assets/822e2703-e50b-41a0-80c8-ee07b51c7969
 
- ## Follow
+ ## Follow 👇
  LinkedIn  = "https://www.linkedin.com/in/prince-buha-9674a22b2/"
 
 
